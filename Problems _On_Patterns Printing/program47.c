@@ -1,5 +1,5 @@
 //input : 4
-// output : *   *   *   *
+// output : *   *   *   * q
 
 #include<stdio.h>
 
@@ -29,4 +29,5 @@ int main()
     Display(iValue);
 
     return 0;
+
 }
