@@ -1,5 +1,5 @@
 //input : 4
-// output : *   *   *   * q
+// output : *   *   *   * q q
 
 #include<stdio.h>
 
@@ -31,3 +31,4 @@ int main()
     return 0;
 
 }
+
